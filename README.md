@@ -12,11 +12,18 @@ My portfolio is a collection of web development projects that showcase my skills
 
 # 👩🏻‍💻Technologies
 
-🌐 HTML
+🌐 HTML (HyperText Markup Language)
 
-🎨 CSS
+HTML serves as the backbone of the website, providing the structure and layout for various elements like headings, paragraphs, buttons, and images. In this project, HTML is used extensively to create the layout for sections such as the navbar, product display, and footer.
 
-Javascript
+🎨 CSS (Cascading Style Sheets)
+
+CSS is utilized to style the website, enhancing its visual appeal and responsiveness. This project employs CSS to define colors, fonts, and layouts, ensuring a seamless experience across different screen sizes.
+
+⚙️ JavaScript
+
+JavaScript adds interactivity and functionality to the website.
+
 
 # Screenshot
 
