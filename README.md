@@ -13,5 +13,7 @@ My portfolio is a collection of web development projects that showcase my skills
 # Technologies
 
 HTML
+
 CSS
+
 Javascript
